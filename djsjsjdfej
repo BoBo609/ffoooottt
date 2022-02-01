@@ -2,7 +2,7 @@
   const defaultPrefs = {
     essentialPatches: true,
     spoofAdmin: false,
-    spoofPlus: false,
+    spoofPlus: true,
     unlockAllBlooks: false,
     bypassRandomName: false,
     skipBoxOpenAnimation: false,
